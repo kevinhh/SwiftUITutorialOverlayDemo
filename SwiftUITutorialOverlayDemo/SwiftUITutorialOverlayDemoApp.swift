@@ -2,7 +2,7 @@
 //  SwiftUITutorialOverlayDemoApp.swift
 //  SwiftUITutorialOverlayDemo
 //
-//  Created by Kevin Huang on 6/8/23.
+//  Created by Kevin Huang on 5/11/23.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUITutorialOverlayDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TutorialDemoView()
         }
     }
 }
